@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SWIFTBUY/static/css/main.618914e8.css",
+    "main.js": "/SWIFTBUY/static/js/main.144e2785.js",
+    "static/js/453.d290bb7b.chunk.js": "/SWIFTBUY/static/js/453.d290bb7b.chunk.js",
+    "static/media/image110.png": "/SWIFTBUY/static/media/image110.1df379e3f132f66db79a.png",
+    "static/media/selas.jpg": "/SWIFTBUY/static/media/selas.6dad6fb76370a3f0d21b.jpg",
+    "static/media/seals2.jpeg": "/SWIFTBUY/static/media/seals2.7009214a8b56b60728b2.jpeg",
+    "static/media/lastday.webp": "/SWIFTBUY/static/media/lastday.25cc16ebfc5dcc26ca7f.webp",
+    "static/media/logo.webp": "/SWIFTBUY/static/media/logo.ce526aed23ea20d2a09e.webp",
+    "static/media/emptyheart.png": "/SWIFTBUY/static/media/emptyheart.74e0a5518ccf125be851.png",
+    "static/media/redux.cjs": "/SWIFTBUY/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "static/media/fullreadheart.png": "/SWIFTBUY/static/media/fullreadheart.51cbf06ea64e1c63f21b.png",
+    "index.html": "/SWIFTBUY/index.html",
+    "main.618914e8.css.map": "/SWIFTBUY/static/css/main.618914e8.css.map",
+    "main.144e2785.js.map": "/SWIFTBUY/static/js/main.144e2785.js.map",
+    "453.d290bb7b.chunk.js.map": "/SWIFTBUY/static/js/453.d290bb7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.618914e8.css",
+    "static/js/main.144e2785.js"
+  ]
+}
